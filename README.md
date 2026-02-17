@@ -1,16 +1,46 @@
-## Hi there 👋
+# Juan Sebastián Soto Copete
 
-<!--
-**SS98Cr/SS98Cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Sistemas y Telecomunicaciones** en la **Universidad de Manizales**, con interés en el **desarrollo de software**, la **automatización de procesos** y la construcción de **soluciones empresariales**, particularmente en **desarrollo web** y tecnologías **backend**.
 
-Here are some ideas to get you started:
+Actualmente en formación como **ingeniero de software**, fortaleciendo competencias en **programación**, **automatización mediante software**, **tecnologías backend** y **buenas prácticas de desarrollo** mediante proyectos académicos y práctica aplicada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Perfil
+
+Estudiante orientado al **aprendizaje continuo** y al desarrollo de **soluciones tecnológicas** aplicadas al entorno organizacional. Interesado en áreas de **desarrollo web**, **automatización**, **inteligencia artificial** y **software empresarial**.
+
+En proceso de consolidación de habilidades en **diseño e implementación de aplicaciones**, con enfoque en **calidad de código**, **estructura**, **eficiencia operativa** y comprensión de la **arquitectura de software**.
+
+---
+
+## Tecnologías
+
+* **Java**
+* **Python**
+* **C#**
+* **HTML**
+* **Spring Boot**
+* **.NET**
+* **R**
+
+---
+
+## Formación en curso
+
+* **Desarrollo web**
+* **Arquitectura de software**
+* **Desarrollo backend**
+* **Automatización de procesos mediante software**
+* **Buenas prácticas de programación**
+
+---
+
+## Proyectos
+
+Actualmente en desarrollo de **proyectos académicos** como parte del proceso de formación en **ingeniería de software**. 
+---
+
+## Contacto
+
+**Correo:** [jsebastian0498@gmail.com](mailto:jsebastian0498@gmail.com)
